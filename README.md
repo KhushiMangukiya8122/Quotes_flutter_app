@@ -1,6 +1,8 @@
 # quotes_app
 
-A new Flutter project.
+
+https://github.com/KhushiMangukiya8122/Quotes_flutter_app/assets/131368294/3ef4925f-6d9e-4911-8c3e-bacb7bcbaba2
+
 
 ## Getting Started
 
